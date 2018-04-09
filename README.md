@@ -1,3 +1,6 @@
+Team: Geraldy Leondas & Alison Lagerlof
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 

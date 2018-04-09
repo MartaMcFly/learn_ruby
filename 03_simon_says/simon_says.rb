@@ -34,9 +34,9 @@ end
 
 first_word("salut je suis Alison")
 
-# capitalization d'un mot
-def titleize (mot)
-  return mot.capitalize
-end
+# capitalisation de chaque mot de la phrase
+def titleize(phrase)
+   mot = phrase.split.map(&:capitalize).join(' ')
+  end
 
-titleize()
+titleize("salut je suis Alison")
